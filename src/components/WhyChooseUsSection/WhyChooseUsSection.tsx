@@ -5,7 +5,7 @@ function WhyChooseUsSection() {
                 <div className="row justify-content-between">
                     <div className="col-lg-6">
                         <h2 className="section-title">Mengapa Memilih Kami</h2>
-                        <p>Kami percaya pada kualitas, kenyamanan, dan gaya. Furnitur kami dibuat dengan keahlian tinggi untuk mempercantik ruang Anda dengan elegan dan tahan lama. Berbelanja dengan percaya diri dan ubah rumah Anda dengan mudah.</p>
+                        <p>Kami percaya pada kualitas, kenyamanan, dan gaya. Outfit Store kami dibuat dengan integritas tinggi untuk memberikan pengalaman terbaik kepada seluruh pengunjung. Berbelanja dengan percaya diri dan ubah lemari Anda dengan mudah.</p>
 
                         <div className="row my-5">
                             <div className="col-6 col-md-6">
